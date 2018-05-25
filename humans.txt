@@ -1,0 +1,16 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+  Stephano Apiolaza -- Full Stack Developer -- github https://github.com/stephanoapiolaza/
+  Edwin Perez -- Lead Team -- edwin.perez@scotiabank.cl
+  Jorge Romero -- Full Stack Developer -- jorge.romero_ex@scotiabank.cl
+
+# THANKS
+
+  Stephano Apiolaza look for in github https://github.com/stephanoapiolaza/ or send me an email stephanoapiolaza_ex@scotiabank.cl
+
+# TECHNOLOGY COLOPHON
+
+  HTML5, CSS3, SASS, REACT, WEBPACK

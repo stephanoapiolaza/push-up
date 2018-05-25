@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'FrutigerLTforBNS';
+    src: url('./assets/fonts/FrutigerLTforBNS/FrutigerLTforBNS-Light.ttf') format('truetype');
+}
+
+html, body {
+    font-family: 'FrutigerLTforBNS' !important;
+}

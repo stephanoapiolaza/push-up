@@ -1,0 +1,36 @@
+<!DOCTYPE>
+<html>
+	<head>
+	<link rel="icon" href="favicon.ico" type="image/x-icon" />
+		<script src="push.js"></script>
+    <style>
+      table {
+        border-collapse: collapse;
+      }
+
+      table, th, td {
+        border: 1px solid black;
+      }
+    </style>
+	</head>
+	<body style="margin-left: 5em; margin-top: 1em;">
+		<h2>Web Push Notification</h2>
+
+    <form id="form-push">
+      <blockquote>Titulo</blockquote>
+      <input type="text" name="title" placeholder="Titulo de la notificacion" value="Ejemplo de titulo" />
+      <blockquote>Mensaje</blockquote>
+      <input type="text" name="message" placeholder="Mensaje de la notificacion" value="Mensaje de Ejemplo" />
+      <blockquote>Suscripci&oacute;n</blockquote>
+      <textarea id="subscription" name="suscription" placeholder="Suscripcion" rows="15" cols="50"></textarea>
+      <br/>
+      <button id="send">Enviar notificacion.</button>
+    </form>
+
+    <h3>Tabla de dispositivos registrados</h3>
+    <button id="refresh">Refrescar Tabla</button>
+    <div id="tableAll">
+
+    </div>
+	</body>
+</html>
