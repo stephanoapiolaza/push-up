@@ -1,6 +1,6 @@
 window.addEventListener('load', registerServiceWorker, false);
 
-var addressIp = 'http://localhost:8080';
+var addressIp = 'https://message-push-up-205517.appspot.com';
 
 function registerServiceWorker() {
     if ('serviceWorker' in navigator) {
